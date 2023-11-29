@@ -1,0 +1,8 @@
+C:\MVC-Jenkins-Programs\FristProjectPipline\bin\Debug\FristProjectPipline.exe.config
+C:\MVC-Jenkins-Programs\FristProjectPipline\bin\Debug\FristProjectPipline.exe
+C:\MVC-Jenkins-Programs\FristProjectPipline\bin\Debug\FristProjectPipline.pdb
+C:\MVC-Jenkins-Programs\FristProjectPipline\obj\Debug\FristProjectPipline.csproj.AssemblyReference.cache
+C:\MVC-Jenkins-Programs\FristProjectPipline\obj\Debug\FristProjectPipline.csproj.SuggestedBindingRedirects.cache
+C:\MVC-Jenkins-Programs\FristProjectPipline\obj\Debug\FristProjectPipline.csproj.CoreCompileInputs.cache
+C:\MVC-Jenkins-Programs\FristProjectPipline\obj\Debug\FristProjectPipline.exe
+C:\MVC-Jenkins-Programs\FristProjectPipline\obj\Debug\FristProjectPipline.pdb
